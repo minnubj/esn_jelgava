@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://esn-jelgava.vercel.app/sitemap.xml
